@@ -1,2 +1,2 @@
-# IndianInfo
+#index.html
 more about india
